@@ -7,10 +7,12 @@ $baseDir = dirname($vendorDir);
 
 return array(
     'Unoconv' => array($vendorDir . '/php-unoconv/php-unoconv/src'),
-    'Symfony\\Component\\Process\\' => array($vendorDir . '/symfony/process'),
+    'QueryPath' => array($vendorDir . '/querypath/querypath/src'),
     'Psr\\Log\\' => array($vendorDir . '/psr/log'),
     'NeuroSys\\FileMerger\\' => array($vendorDir . '/neurosys/file-merger'),
+    'Michelf' => array($vendorDir . '/michelf/php-markdown'),
     'Knp\\Snappy' => array($vendorDir . '/knplabs/knp-snappy/src'),
+    'HTML5' => array($vendorDir . '/masterminds/html5/src'),
     'Evenement' => array($vendorDir . '/evenement/evenement/src'),
     'Alchemy' => array($vendorDir . '/alchemy/binary-driver/src'),
 );
