@@ -1,7 +1,7 @@
 {
     "_readme": [
         "This file locks the dependencies of your project to a known state",
-        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
     "hash": "7a65533a1137f57b2e59a87abf8e6ad2",
@@ -535,12 +535,12 @@
             "target-dir": "NeuroSys/FileMerger",
             "source": {
                 "type": "git",
-                "url": "https://github.com/neurosys-pl/file-merger.git",
+                "url": "https://github.com/neurosys-public/file-merger.git",
                 "reference": "174f1729de3fe0999244287b36346297b89a20b5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/neurosys-pl/file-merger/zipball/174f1729de3fe0999244287b36346297b89a20b5",
+                "url": "https://api.github.com/repos/neurosys-public/file-merger/zipball/174f1729de3fe0999244287b36346297b89a20b5",
                 "reference": "174f1729de3fe0999244287b36346297b89a20b5",
                 "shasum": ""
             },
