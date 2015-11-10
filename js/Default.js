@@ -41,6 +41,7 @@
         $scope.$on('$dropletFileAdded', function (event, file){
             console.log(event);
             console.log(file);
+            $scope.interface.uploadFiles();
         });
 
         // Listen for when the files have been successfully uploaded.
